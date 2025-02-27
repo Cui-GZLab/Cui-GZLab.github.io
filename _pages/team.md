@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Cui Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Cui Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -11,25 +11,29 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+<!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-## Staff
+### Current team members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 4 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+<div class="col-sm-3 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: top" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
+  <p>{{ member.info }}</p>
+  <p>{{ member.email }}</p>
+  {% if member.area %}
+  <p>{{ member.area }}</p>
+  {% endif %}
+  <!-- <ul style="overflow: hidden"> -->
 
-  {% if member.number_educ == 1 %}
+  <!-- {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -57,28 +61,28 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% endif %} -->
 
-  </ul>
+  <!-- </ul> -->
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+{% assign number_printed = number_printed | plus: 1 %}   
 
-{% if even_odd == 1 %}
+{% if even_odd != 0 %}
 </div>
 {% endif %}
 
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% if even_odd != 0 %}
 </div>
 {% endif %}
 
 
 
 
-## Master and Bachelor Students
+<!-- ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -90,7 +94,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}  <br>email: <{{ member.email }}></i> 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -129,10 +133,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
-## Alumni
+### Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
