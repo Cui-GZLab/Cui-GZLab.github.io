@@ -6,6 +6,16 @@ sitemap: false
 permalink: /
 ---
 
+<p>We are a young research group at the Guangzhou National Laboratory. If you are interested in working with us, please see more information on Positions.</p>
+<p>Our research team is dedicated to pioneering spatially resolved multi-omics methodologies for delineating the spatiotemporal regulation of cellular fate specification during respiratory organogenesis and disease pathogenesis. </p>
+<p>Although organogenesis requires precise spatiotemporal orchestration of developmental programs and carcinogenesis emerges as their dysregulated counterpart through subversion of conserved molecular pathways, these processes share conserved dependencies on proliferative capacity, cellular plasticity, and adaptive microenvironmental niches that drive cellular state transitions. Through methodological breakthroughs, we have developed automated single-cell multi-omics platforms that synergistically integrate transcriptomic profiling, epigenomic mapping, and spatial resolution technologies. These technological innovations have enabled two major breakthroughs: 
+1. Systematic elucidation of molecular trajectory dynamics during gastrulation and three-dimensional regulatory architectures in organogenesis;
+2. Comprehensive characterization of cellular phenotypes and their molecular signatures across pulmonary morphogenesis and neoplastic transformation. 
+Our principal investigators have led multiple collaborative initiatives, making significant contributions as corresponding or first authors in high-impact journals such as Nature, Nature Genetics, and Cell Reports. These achievements have been recognized through nationally prestigious awards, including the 'Top Ten Breakthroughs in Life Sciences' and 'Top Ten Advances in Bioinformatics' in China."</p>
+
+<p>Building upon these achievements, our research agenda is dedicated to developing next-generation high-resolution spatial multi-omics platforms that will enable us to elucidate the molecular mechanisms governing cell-cell interaction during early organogenesis while concurrently characterizing immune ecosystem dynamics within tumor microenvironments. By integrating single-cell and spatial omics data, we aim to advance our understanding of both normal developmental processes and pathological transformations at unprecedented spatiotemporal resolution. </p>
+    
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -22,22 +32,13 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/homepage_Fig1.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/homepage_Fig2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/homepage_Fig3.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -51,25 +52,15 @@ permalink: /
 </div>
 
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
-
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
-
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate Postdoc, Assistant Investigator and Research Assistant to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
 
 
 
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+</figure> -->

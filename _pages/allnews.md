@@ -1,13 +1,30 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Cui Lab at Leiden University."
 sitemap: false
-permalink: /allnews.html
+permalink: /news
 ---
 
 # News
 
-{% for article in site.data.news %}
+<!-- {% for article in site.data.news %}
 <p>{{ article.date }} <br> {{ article.headline | markdownify}}</p>
-{% endfor %}
+{% endfor %} -->
+
+**Feb 2025**
+
+- 欢迎孟小高博士（博士后）加入课题组
+
+**Dec 2024** 
+
+- 恭喜博士生杨佳鑫一作综述文章“Roles of the NR2F Family in the Development, Disease, and Cancer of the Lung”在***Journal of Developmental Biology***期刊发表  	
+
+- 大夫山骑行、野餐
+
+<table>
+    <tr>
+        <td><img src="../images/newspic/202412大夫山团建1.jpg" alt="图片1" style="width: 80%;"></td>
+        <td><img src="../images/newspic/202412大夫山团建2.jpg" alt="图片2" style="width: 60%;"></td>
+    </tr>
+</table>
