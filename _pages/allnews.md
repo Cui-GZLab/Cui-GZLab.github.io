@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Cui Lab at Leiden University."
+excerpt: "Cui at GZLab"
 sitemap: false
 permalink: /news
 ---
@@ -18,7 +18,7 @@ permalink: /news
 
 **Dec 2024** 
 
-- 恭喜博士生杨佳鑫一作综述文章“Roles of the NR2F Family in the Development, Disease, and Cancer of the Lung”在***Journal of Developmental Biology***期刊发表  	
+- 恭喜博士生杨佳鑫一作综述文章“Roles of the NR2F Family in the Development, Disease, and Cancer of the Lung”在***Journal of Developmental Biology***期刊发表，[MDPI公众号报道](https://mp.weixin.qq.com/s/rNAkr2ebmHB_WfpeR9-j0Q)  	
 
 - 大夫山骑行、野餐
 
