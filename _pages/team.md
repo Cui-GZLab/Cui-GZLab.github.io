@@ -45,10 +45,10 @@ permalink: /team/
 <div class="col-sm-3 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="80%" style="float: top" />
   <h5>{{ member.name }}</h5>
-  <p>{{ member.info }}</p>
-  <p>{{ member.email }}</p>
+  <p style="margin: 0; line-height: 1.3;">{{ member.info }}</p>
+  <p style="margin: 0; line-height: 1.3;">{{ member.email }}</p>
   {% if member.area %}
-  <p>{{ member.area }}</p>
+  <p style="margin: 0; line-height: 1.3;">{{ member.area }}</p>
   {% endif %}
   
 </div>

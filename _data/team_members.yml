@@ -1,17 +1,20 @@
 - name: Meijuan Wu(吴美娟)
   photo: wumeijuan.jpg
   info: Lab manager
-  email: wu_meijuan@gzlab.ac.cn 
+  email: wu_meijuan@gzlab.ac.cn
+  area: 
 
 - name: Xin Zhou(周鑫)
   photo: zhouxin.jpg
   info: Research assistant
   email: zhou_xin@gzlab.ac.cn
+  area:
 
 - name: Qin Zhang(张钦)
   photo: zhangqin.jpg
   info: Research assistant
   email: zhang_qin@gzlab.ac.cn
+  area:
 
 - name: Yu Gao(高禹)
   photo: gaoyu.jpg
@@ -29,43 +32,58 @@
   photo: sunjiaoyang.jpg
   info: Postdoc
   email: sun_jiaoyang@gzlab.ac.cn
+  area:
 
 - name: Na Yang(杨娜)
   photo: yangna.jpg
   info: Postdoc
   email: yang_na01@gzlab.ac.cn
+  area:
 
 - name: Xiaogao Meng(孟小高)
   photo: mengxiaogao.jpg
   info: Postdoc
   email: mxiaogao@mail.ustc.edu.cn
+  area:
 
 - name: Jian Xu(徐剑)
   photo: xujian.jpg
   info: PhD student
   email: xu_jian@gzlab.ac.cn
+  area:
 
 - name: Jiaxin Yang(杨佳鑫)
   photo: yangjiaxin.jpg
   info: PhD student
-  email: yang_jiaxin@gzlab.ac.cn  
+  email: yang_jiaxin@gzlab.ac.cn 
+  area: 
 
 - name: Wenjing Sun(孙文静)
   photo: sunwenjing.jpg
   info: Master student
   email: 3088619056@qq.com
+  area:
 
 - name: Xuhang Wang(王许航)
   photo: wangxuhang.jpg
   info: Master student
   email: 1207447936@qq.com
+  area:
 
 - name: Minhan Wang(王敏翰)
   photo: wangminhan.jpg
   info: Master student
   email: b799167643@qq.com
+  area:
 
 - name: Junhao Chen(陈钧豪)
   photo: chenjunhao.jpg
   info: Bachelor student
   email: 3388674169@qq.com
+  area:
+
+- name: Guo Yang(杨过)
+  photo: yangguo.jpg
+  info: Bachelor student
+  email: 1838829644@qq.com
+  area:
