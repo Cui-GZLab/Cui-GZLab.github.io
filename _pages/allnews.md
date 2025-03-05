@@ -8,9 +8,7 @@ permalink: /news
 
 # News
 
-<!-- {% for article in site.data.news %}
-<p>{{ article.date }} <br> {{ article.headline | markdownify}}</p>
-{% endfor %} -->
+
 
 **Feb 2025**
 
@@ -24,7 +22,7 @@ permalink: /news
 
 <table>
     <tr>
-        <td><img src="../images/newspic/202412大夫山团建1.jpg" alt="图片1" style="width: 80%;"></td>
-        <td><img src="../images/newspic/202412大夫山团建2.jpg" alt="图片2" style="width: 60%;"></td>
+        <td><center><img src="../images/newspic/202412大夫山团建1.jpg" alt="图片1" style="width: 80%;"></center></td>
+        <td><center><img src="../images/newspic/202412大夫山团建2.jpg" alt="图片2" style="width: 60%;"></center></td>
     </tr>
 </table>

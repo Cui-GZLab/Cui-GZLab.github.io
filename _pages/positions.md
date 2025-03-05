@@ -41,7 +41,4 @@ If you are interested in joining us, please send the following materials to **wu
 We warmly welcome graduate and undergraduate students to join our research group and participate in these research topics. If you are interested in other areas of research not covered in our current focus, feel free to contact us(wu_meijuan@gzlab.ac.cn) for further discussion.
 
 
-<!-- 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure> -->
+
