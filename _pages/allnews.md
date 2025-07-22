@@ -16,7 +16,6 @@ permalink: /news
         <td><center><img src="../images/newspic/20250715团建.jpg" alt="图片1" style="width: 80%;"></center></td>
    </tr>
 </table>
-
 **Jul  2025**
 
 - 欢迎朱文熙研究实习员加入课题组
