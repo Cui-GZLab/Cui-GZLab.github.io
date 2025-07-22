@@ -15,9 +15,10 @@ permalink: /news
 - 团建
 <table>
     <tr>
-        <td><center><img src="../images/newspic/20250715团建.jpg" alt="图片1" style="width: 80%;"></center></td>
+        <td><img src="../images/newspic/20250715团建.jpg" alt="图片1" style="width: 40%;"></td>
    </tr>
 </table>
+
 - 欢迎朱文熙研究实习员加入课题组
 
 **Mar 2025** 
