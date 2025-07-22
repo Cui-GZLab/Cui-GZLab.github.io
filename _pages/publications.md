@@ -24,7 +24,7 @@ permalink: /publications/
 
 ### (Co-) First author/corresponding author
 
-1. Xiaogao Meng<sup>#</sup>, Wenjia Li<sup>#</sup>, Jian Xu, Yao Yao, An Gong, Yumeng Yang , Fangfang Qu, Chenkai Guo, Hui Zheng, __Guizhong Cui<sup>+</sup>__, Shengbao Suo<sup>+</sup>, Guangdun Peng<sup>+</sup>.[ Spatiotemporal transcriptome atlas of developing mouse lung](https://doi.org/10.21203/rs.3.rs-4540678/v1). ___Science Bulletin,___ Accepted. 
+1. Xiaogao Meng<sup>#</sup>, Wenjia Li<sup>#</sup>, Jian Xu, Yao Yao, An Gong, Yumeng Yang , Fangfang Qu, Chenkai Guo, Hui Zheng, __Guizhong Cui<sup>+</sup>__, Shengbao Suo<sup>+</sup>, Guangdun Peng<sup>+</sup>.[ Spatiotemporal transcriptome atlas of developing mouse lung](https://doi.org/10.1016/j.scib.2025.03.012). ___Science Bulletin,___ . 
 
 2. Jiaxin Yang, Wenjing Sun, __Guizhong Cui<sup>+</sup>__. [Roles of the NR2F Family in the Development, Disease, and Cancer of the Lung]( https://doi.org/10.3390/jdb12030024). ___Journal of Developmental Biology___, 2024, 12(3): 24.
 
