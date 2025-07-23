@@ -10,16 +10,16 @@
   email: zhang_qin@gzlab.ac.cn
   area:
 
-- name: Yu Gao(高禹)
-  photo: gaoyu.jpg
-  info: Research assistant
-  email: gao_yu@gzlab.ac.cn
-  area: Omics data analysis
-
 - name: Xiaodie Ren(任小蝶)
   photo: renxiaodie.jpg
   info: Research assistant
   email: ren_xiaodie@gzlab.ac.cn
+  area: Omics data analysis
+
+- name: Wenxi Zhu(朱文熙)
+  photo: zhuwenxi.jpg
+  info: Research assistant
+  email: zhu_wenxi@gzlab.ac.cn
   area: Omics data analysis
 
 - name: Jiaoyang Sun(孙骄杨)
@@ -51,6 +51,12 @@
   info: PhD student
   email: yang_jiaxin@gzlab.ac.cn 
   area: 
+
+- name: Yu Gao(高禹)
+  photo: gaoyu.jpg
+  info: PhD student
+  email: gao_yu@gzlab.ac.cn
+  area: Omics data analysis
 
 - name: Wenjing Sun(孙文静)
   photo: sunwenjing.jpg
