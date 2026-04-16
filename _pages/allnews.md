@@ -8,7 +8,16 @@ permalink: /news
 
 # News
 
+**Feb 2026 
 
+- 团建
+
+<table>
+    <tr>
+         <td><center><img src="../images/newspic/202601团建.jpg" alt="图片1" style="width: 80%;"></center></td>
+        <td><center><img src="../images/newspic/202601团建2.jpg" alt="图片2" style="width: 80%;"></center></td>
+   </tr>
+</table>
 
 **Jul 2025** 
 
