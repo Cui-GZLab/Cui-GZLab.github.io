@@ -14,10 +14,12 @@ permalink: /news
 
 <table>
     <tr>
-         <td><center><img src="../images/newspic/202601团建.jpg" alt="图片1" style="width: 80%;"></center></td>
-        <td><center><img src="../images/newspic/202601团建2.jpg" alt="图片2" style="width: 80%;"></center></td>
+         <td><center><img src="../images/newspic/202601团建.jpg" alt="图片1" style="width: 90%;"></center></td>
+        <td><center><img src="../images/newspic/202601团建2.jpg" alt="图片2" style="width: 90%;"></center></td>
    </tr>
 </table>
+
+- 欢迎黄依莎研究实习员、王艳耐硕士生加入课题组
 
 **Jul 2025** 
 
