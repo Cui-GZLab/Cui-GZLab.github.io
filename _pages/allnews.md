@@ -8,7 +8,7 @@ permalink: /news
 
 # News
 
-**Feb 2026 
+**Feb 2026** 
 
 - 团建
 
