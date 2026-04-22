@@ -8,7 +8,7 @@ permalink: /positions
 
 # Open positions
 
-**We are currently looking for 2-3 postdoctoral fellows in the fields of single-cell/spatial omics, organoids, and bioinformatics and 2 research assistants.**
+**We are currently looking for 2-3 postdoctoral fellows in the fields of single-cell/spatial omics, organoids, and bioinformatics .**
 
 Our research group is primarily focused on developing and applying single-cell and spatial multi-omics technologies to unravel the spatio-temporal regulatory mechanisms underlying cell fate decisions during the development and pathological processes of respiratory organs. 
 
@@ -20,15 +20,6 @@ Responsible for conducting research on the mechanisms of lung organ development 
 2. Passionate about scientific research, highly motivated, proactive in work, willing to learn new knowledge and new technologies, with good sense of responsibility and team spirit, good communication skills and strong Chinese and English communication and writing abilities;
 3. Have a solid foundation in biochemistry, cell biology, and bioinformatics. Those who have received good training in single-cell/spatial sequencing technologies and high-throughput sequencing data analysis (such as scRNA-seq/ATAC-seq/WES, etc.) or are familiar with the culture experiments of stem cells and organoids will be given priority.
 
-### Research Assistants
-#### Job Responsibilities:
-1. The work mainly involves the construction of single-cell/spatial omics libraries, data analysis, cell and molecular functional experiments, etc.;
-2. Conduct relevant experimental research under the guidance of the project leader and assist in completing other related work.
-
-#### Requirements:
-1. Master's degree or above in biology or computational science and other related majors;
-2. Be conscientious and responsible, have strong hands-on ability, and possess the spirit of active learning and team cooperation;
-3. Those with research experience in bioinformatics analysis and omics technologies will be given priority.
 
 ### Application
 If you are interested in joining us, please send the following materials to **wu_meijuan@gzlab.ac.cn** with the subject of “XXX Research Group + Applied Position + Name”:   
