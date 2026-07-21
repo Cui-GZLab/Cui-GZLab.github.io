@@ -52,6 +52,12 @@
   email: gao_yu@gzlab.ac.cn
   area: Omics data analysis
 
+- name: Yue Chen(程悦)
+  photo: chenyue.jpg
+  info: PhD student
+  email: 1985376046@qq.com
+  area: Omics data analysis
+
 - name: Wenjing Sun(孙文静)
   photo: sunwenjing.jpg
   info: Master student
@@ -70,12 +76,6 @@
   email: b799167643@qq.com
   area:
 
-- name: Yannai Wang(王艳耐)
-  photo: wangyannai.jpg
-  info: Master student
-  email: w1607305253@163.com
-  area:
-
 - name: Junhao Chen(陈钧豪)
   photo: chenjunhao.jpg
   info: Bachelor student
@@ -86,4 +86,10 @@
   photo: yangguo.jpg
   info: Bachelor student
   email: 1838829644@qq.com
+  area:
+
+- name: XuHua Liao(廖许华)
+  photo: liaoxuhua.jpg
+  info: Bachelor student
+  email: 2900389243@qq.com
   area:
